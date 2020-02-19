@@ -1,0 +1,13 @@
+kaggle notebook地址: https://www.kaggle.com/robert333/recommendationwithsurprise-wangxinrs?scriptVersionId=28908774
+
+说明：
+数据：从1亿条数据中选择1%的数据，然后从probe数据集中随机挑选1w条数据进行预测
+模型：BaselineOnly()，默认的ALS方法和参数
+rmse：对probe数据集的子集进行3fold交叉验证，其中，
+
+Estimating biases using als...
+RMSE: 0.9129
+Estimating biases using als...
+RMSE: 1.2392
+Estimating biases using als...
+RMSE: 1.1706
