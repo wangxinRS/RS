@@ -1,1 +1,4 @@
-Action 3: https://blog.csdn.net/qq_30841655/article/details/104240419
+Action 3: 数据抓取：https://blog.csdn.net/qq_30841655/article/details/104240419
+          pyecharts可视化：https://blog.csdn.net/qq_30841655/article/details/104240419
+
+说明：助教老师，这里的两篇博客写的时间稍早，现在公开的数据源上没有历史数据可以爬取，但是以前有，所以可视化里面有关于日期的变化图像
